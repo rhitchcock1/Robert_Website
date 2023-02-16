@@ -1,4 +1,13 @@
-body {
+html {
     text-align: center;
-    background-color: blueviolet;
+    background: rgb(236,238,238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 400px;
+}
+
+div {
+    align-items: left;
 }
